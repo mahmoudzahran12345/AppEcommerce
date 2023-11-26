@@ -46,7 +46,7 @@ class ProfileView extends StatelessWidget {
                       CustomButton(() {
                         //print(controller.userModel?.pic);
                         //Get.offAll(LoginScreen());
-                      }, 50, 50, 'text', 17, Alignment.center)
+                      }, 50, 50, 'text', 15, Alignment.center)
                     ],
                   ),
                 )
