@@ -47,7 +47,7 @@ class ProfileView extends StatelessWidget {
                         //print(controller.userModel?.pic);
                         //Get.offAll(LoginScreen());
                       }, 50, 50, 'text', 15, Alignment.center)
-                    ],
+                    ],//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
                   ),
                 )
               ],
